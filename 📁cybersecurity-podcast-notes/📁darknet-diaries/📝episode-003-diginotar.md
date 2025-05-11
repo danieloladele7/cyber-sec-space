@@ -3,13 +3,12 @@
 ## 🎧 Episode Information
 
 - **Title**:
-- **Podcast**:
+- **Podcast**: Darknet Diaries
 - **Release Date**:
 - **Duration**:
 - **Link**:
 - **Embedded Player**:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3GjLJQM8JHz1odxQ4Og5tf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/638vkxv3bwXDaDhmvvay9M?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ### 📝 The Gist
 
 A concise summary of the episode, highlighting key points and narratives.

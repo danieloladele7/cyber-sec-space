@@ -1,14 +1,16 @@
-# 📝 Episode 1: The Phreaky World of PBX Hacking
+# 📝 Episode 1: The Peculiar Case of the VTech Hacker
 
 ## 🎧 Episode Information
 
-- **Title**:
-- **Podcast**:
-- **Release Date**:
-- **Duration**:
-- **Link**:
+- **Title**: The Peculiar Case of the VTech Hacker
+
+- **Podcast**: Darknet Diaries
+
+- **Release Date**: September 15, 2017
+- **Duration**: 26 minutes
+- **Link**: [episode 2](https://darknetdiaries.com/episode/2/)
 - **Embedded Player**:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3GjLJQM8JHz1odxQ4Og5tf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4zY9kdW6lIEpe1xITgc7Kr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 📝 The Gist
 

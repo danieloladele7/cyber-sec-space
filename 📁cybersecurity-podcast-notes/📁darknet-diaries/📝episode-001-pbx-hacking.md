@@ -18,23 +18,36 @@ Jack Rhysider, placed a call to Paul to explore the underworld of **PBX (Private
 
 Key figures in this scene included **Farhan Arshad** and **Noor Aziz Uddin**, who became notorious for their roles in a large-scale international PBX hacking operation. They were eventually placed on the **FBI’s Cyber’s Most Wanted list**, accused of defrauding companies across multiple countries.
 
-They were first arrested in Kuala Lumpar, Malaysia and held for 60days but released by the ... because .... They were later arrested through the help of Pakistani’s Chief Intelligence Office, Mir Mazhar Jabber and his team, the FBI, Interpol raided the home of the hackers, but the suspects had already fled. They were later tracked through **international cooperation between Interpol and U.S. authorities**, leading to their capture in **Pakistan**. Arshad and Uddin were convicted for their crimes, which involved stealing access to PBX systems and selling that access to illicit operators. However, due to **jurisdictional and diplomatic complications**, they were later **released** without serving full sentences.
+They were first arrested in Kuala Lumpar, Malaysia and held for 60 days but released by the Malaysian Attorney General because "The arrest warrant obtained by Malaysian Home Ministry violated the technicalities involved in the requirements of the Extradition Act of 1992.". The next month the FBI added them to the Cyber’s Most Wanted list and offered a $50,000 bounty for any information leading to the arrest of either one of them. Over two years later the Pakistani’s Chief Intelligence Office fo the FIA (Federal Investigation Agency), Mir Mazhar Jabber and his team, got a tip on the cellphone number of Uddin which led to their arrest on February 14, 2015.
 
-The episode revealed how vulnerable business phone systems were and how attackers exploited voicemail ports, default passwords, and remote access features—turning phone systems into **unwitting tools for fraud**. The episode underscored the ongoing importance of securing legacy infrastructure in a digital age.
-Would you like a similar summary for any other episode?
+### 🧠 Technical Terms and Key Insights
 
-### 🧠 Technical Terms
+1. 📞 **Private Branch Exchange (PBX) Systems**: is a private telephone network used within an organization. It enables internal communication among employees and connects to external telephone networks for outbound calls. The PBX systems offer features like call forwarding, voicemail, and automated attendants, enhancing communication efficiency within organizations. PBX systems can be categorized into: [[Forbes](https://www.forbes.com/advisor/business/what-is-pbx/)]
+    * **Traditional PBX**: Utilizes analog lines and hardware installed on-premises.[[Informa TechTarget](https://www.techtarget.com/searchunifiedcommunications/definition/private-branch-exchange)]
+    * **IP-PBX**: Operates over the internet, supporting Voice over IP (VoIP) calls.[[Lifewire](https://www.lifewire.com/pbx-phone-systems-and-business-communication-8741314)]
+    * **Hosted PBX**: Cloud-based solutions managed by third-party providers.
 
-A list of technical terms mentioned in the episode, along with their definitions and real-world applications or use cases.
+2. 🛡️ **PBX Hacking and Dial-Through Fraud**: involves unauthorized access to a PBX system, allowing attackers to make fraudulent calls at the organization's expense. This is often achieved by exploiting weak security measures, such as default passwords or unpatched vulnerabilities. The attackers typically route calls to premium-rate numbers they control, generating significant charges for the victim. [[abhandshake.com](https://abhandshake.com/community/pbx-hacking/)]
+3. 🧌 **Troll Fraud**: refers to a type of fraud where attackers manipulate PBX systems to make unauthorized calls, often to premium-rate numbers. These calls are typically brief but frequent, leading to substantial charges accumulating over time.
+4. 🔐 **How PBX Hacking Works**: PBX hacking generally follows these steps:
+    1. **Scanning for Vulnerabilities and Gaining Access**: Attackers scan for PBX systems with weak security, such as default passwords, could use brute-force attacks to gain unauthorized access, exploit unpatched/outdated softwares with security flaws, or impersonate legitimate personnel to gain access.
+    2. **Making Fraudulent Calls**: With access to the PBX, attackers route calls to premium-rate numbers, incurring charges that are billed to the compromised organization.
+    4. **Covering Tracks**: To avoid detection, attackers may erase logs or use techniques to mask the origin of the calls.
+5. 🛡️ **Protecting Your PBX System**: To safeguard against PBX hacking:
+    * **Change Default Passwords**: Immediately change default passwords to strong, unique ones.
+    * **Regularly Update Software**: Keep the PBX software up to date with the latest security patches.
+    * **Implement Call Restrictions**: Limit outbound calls to necessary numbers and set up alerts for unusual call patterns.
+    * **Monitor System Logs**: Regularly review PBX logs for any unauthorized access attempts.
+    * **Educate Staff**: Train employees on security best practices and the risks of social engineering attacks.
 
 ### 🛠️ Possible Projects
+- Develop a monitoring tool to detect unusual call patterns in PBX systems.
 
-Ideas for projects inspired by the episode's content, which could include recreating scenarios, developing detection tools, or preventive measures.
+- Create educational materials to raise awareness about PBX vulnerabilities.
 
 ### 📚 Further Resources
 
+- [Understanding PBX Systems]()
 - [The Inside Story Of How Pakistan Took Down The FBI’s Most-Wanted Cybercriminal](https://www.ibtimes.com/inside-story-how-pakistan-took-down-fbis-most-wanted-cybercriminal-1860808)
+- FBI Cyber's [most wanted list](https://www.fbi.gov/investigate/cyber/most-wanted)
 
-### 💭 Reflections
-
-Personal thoughts, critiques, or insights gained from the episode.
